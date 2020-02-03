@@ -244,5 +244,25 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        //TrappingRainWater
+        System.out.println("------------------TrappingRainWater--------------------");
+        try {
+            System.out.println(new TrappingRainWater().trappingRainWater(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));
+            System.out.println(new TrappingRainWater().trappingRainWater(new int[]{1,1}));
+            System.out.println(new TrappingRainWater().trappingRainWater(new int[]{2,0,3}));
+            System.out.println(new TrappingRainWater().trappingRainWater(new int[]{2,0,3,2,4}));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RotateImage
+        System.out.println("------------------RotateImage--------------------");
+        try {
+            System.out.println(Arrays.toString(new RotateImage().rotateImage(new int[][]{{1,2},{3,4}})));
+            System.out.println(Arrays.toString(new RotateImage().rotateImage(new int[][]{{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}})));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }
