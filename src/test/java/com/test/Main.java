@@ -264,5 +264,96 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        //PlusOne
+        System.out.println("------------------PlusOne--------------------");
+        try {
+            System.out.println(Arrays.toString(new PlusOne().plusOne(new int[]{9,9,9},5)));
+            System.out.println(Arrays.toString(new PlusOne().plusOne(new int[]{9,1,2},9)));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ClimbingStairs
+        System.out.println("------------------ClimbingStairs--------------------");
+        try {
+            System.out.println(new ClimbingStairs().climbingStairs(1));
+            System.out.println(new ClimbingStairs().climbingStairs(2));
+            System.out.println(new ClimbingStairs().climbingStairs(6));
+            System.out.println(new ClimbingStairs().climbingStairs(10));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //SetMatrixZeroes
+        System.out.println("------------------SetMatrixZeroes--------------------");
+        try {
+            System.out.println(Arrays.toString(new SetMatrixZeroes().setMatrixZeroes(new int[][]{{1,2},{0,4}})));
+            System.out.println(Arrays.toString(new SetMatrixZeroes().setMatrixZeroes(new int[][]{{1,2,3,0},{5,0,7,8},{9,10,0,12},{0,14,15,16}})));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //GasStation
+        System.out.println("------------------GasStation--------------------");
+        try {
+            System.out.println(new GasStation().gasStation(new int[]{1,2,3,4,1},new int[]{1,2,3,4,1}));
+            System.out.println(new GasStation().gasStation(new int[]{1,2,3,4,5},new int[]{3,4,5,1,2}));
+            System.out.println(new GasStation().gasStation(new int[]{2,3,4},new int[]{3,4,3}));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //Candy
+        System.out.println("------------------Candy--------------------");
+        try {
+            System.out.println(Arrays.toString(new Candy().candy(new int[]{1,2,3,4})));
+            System.out.println(Arrays.toString(new Candy().candy(new int[]{4,3,2,1})));
+            System.out.println(Arrays.toString(new Candy().candy(new int[]{2,1,3,2})));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //MajorityElement
+        System.out.println("------------------MajorityElement--------------------");
+        try {
+            System.out.println(new MajorityElement().majorityElement(new int[]{1,3,2,1,1,4}));
+            System.out.println(new MajorityElement().majorityElement(new int[]{1,2,3,1,4,6}));
+            System.out.println(new MajorityElement().majorityElement(new int[]{1,2,3,1,1,6}));
+            System.out.println(new MajorityElement().majorityElement(new int[]{1,2}));
+            System.out.println(new MajorityElement().majorityElement(new int[]{2}));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RotateArray
+        System.out.println("------------------RotateArray--------------------");
+        try {
+            System.out.println(Arrays.toString(new RotateArray().rotateArray(7,3)));
+            System.out.println(Arrays.toString(new RotateArray().rotateArray(7,7)));
+            System.out.println(Arrays.toString(new RotateArray().rotateArray(7,2)));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ContainsDuplicate
+        System.out.println("------------------ContainsDuplicate--------------------");
+        try {
+            System.out.println(new ContainsDuplicate().containsDuplicate(new int[]{1,3,2,4}));
+            System.out.println(new ContainsDuplicate().containsDuplicate(new int[]{1}));
+            System.out.println(new ContainsDuplicate().containsDuplicate(new int[]{1,2,3,1}));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ContainsDuplicateV2
+        System.out.println("------------------ContainsDuplicateV2--------------------");
+        try {
+            System.out.println(new ContainsDuplicateV2().containsDuplicateV2(new int[]{1,3,1,4},2));
+            System.out.println(new ContainsDuplicateV2().containsDuplicateV2(new int[]{1},1));
+            System.out.println(new ContainsDuplicateV2().containsDuplicateV2(new int[]{1,2,3,1,6,1},2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }
