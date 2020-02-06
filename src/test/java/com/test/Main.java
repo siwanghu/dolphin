@@ -355,5 +355,58 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        //ContainsDuplicateV3
+        System.out.println("------------------ContainsDuplicateV3--------------------");
+        try {
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3upT(new int[]{1,3,1,4},2,3));
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3upT(new int[]{1},1,1));
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3upT(new int[]{1,2,3,1,6,1},7,5));
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3downT(new int[]{1,3,1,4},2,3));
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3downT(new int[]{1},1,1));
+            System.out.println(new ContainsDuplicateV3().containsDuplicateV3downT(new int[]{1,2,3,1,6,1},0,1));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ProductofArrayExceptSelf
+        System.out.println("------------------ProductofArrayExceptSelf--------------------");
+        try {
+            System.out.println(Arrays.toString(new ProductofArrayExceptSelf().productofArrayExceptSelf(new int[]{1,2,3,4})));
+            System.out.println(Arrays.toString(new ProductofArrayExceptSelf().productofArrayExceptSelf(new int[]{3})));
+            System.out.println(Arrays.toString(new ProductofArrayExceptSelf().productofArrayExceptSelf(new int[]{1,2,8})));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //IncreasingTripletSubsequence
+        System.out.println("------------------IncreasingTripletSubsequence--------------------");
+        try {
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequence(new int[]{2,1,4,3,1,2,3}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequence(new int[]{1,2}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequence(new int[]{1,2,3}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequence(new int[]{4,3,2,1}));
+            System.out.println("------------------IncreasingTripletSubsequenceV2--------------------");
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequenceV2(new int[]{2,1,4,3,1,2,3}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequenceV2(new int[]{1,2}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequenceV2(new int[]{1,2,3}));
+            System.out.println(new IncreasingTripletSubsequence().increasingTripletSubsequenceV2(new int[]{4,3,2,1}));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //GameofLife
+        System.out.println("------------------GameofLife--------------------");
+        try {
+            int[][] board = {
+                    {1,0,1,0},
+                    {1,1,0,0},
+                    {0,0,0,0},
+                    {1,1,1,1}
+            };
+            System.out.println(new GameofLife().gameofLife(board));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }

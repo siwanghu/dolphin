@@ -2,18 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e50480-57de-4c7c-a906-8f986eee9ed2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/GameofLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/ProductofArrayExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/Candy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/Candy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ClimbingStairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicateV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicateV2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FindSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/FindSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum$Triplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum$Triplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/GasStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/GasStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/InsertInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/InsertInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/LongestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MergeIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/MergeIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/MinimumWindowSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/MoveZeroes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MultiplyStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/MultiplyStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/NextPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PermutationSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/PermutationSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/SetMatrixZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/SetMatrixZeroes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum$Triplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum$Triplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest$Triplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest$Triplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TrappingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/TrappingRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum$Indices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum$Indices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/siwanghu/ValidSudoku.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Note.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/Note.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,11 +66,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RotateImage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/RotateImage.java">
+      <file leaf-file-name="ContainsDuplicateV3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="380">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="e#336#345#0" expanded="true" />
+                <element signature="e#830#839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductofArrayExceptSelf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ProductofArrayExceptSelf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -43,17 +91,44 @@
       <file leaf-file-name="Note.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Note.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
+      <file leaf-file-name="IncreasingTripletSubsequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/IncreasingTripletSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="354" column="29" lean-forward="true" selection-start-line="354" selection-start-column="29" selection-end-line="354" selection-end-column="29" />
+            <state relative-caret-position="432">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameofLife.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/GameofLife.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,22 +136,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/RotateArray.java">
+      <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="480">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContainsDuplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicate.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="295">
+              <caret line="407" selection-start-line="407" selection-end-line="407" />
               <folding>
-                <element signature="e#242#251#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,53 +160,11 @@
       <file leaf-file-name="FindSubString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/FindSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+            <state relative-caret-position="802">
+              <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContainsDuplicateV2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="e#268#286#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GasStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/GasStation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#189#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Candy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/Candy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClimbingStairs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ClimbingStairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -172,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/NextPermutation.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fun/Card24.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/PermutationSequence.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/Note.java" />
@@ -188,7 +220,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV3.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/ProductofArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/IncreasingTripletSubsequence.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/GameofLife.java" />
       </list>
     </option>
   </component>
@@ -385,12 +422,12 @@
       <workItem from="1580100555791" duration="10300000" />
       <workItem from="1580188963132" duration="3714000" />
       <workItem from="1580197933571" duration="21603000" />
-      <workItem from="1580525018804" duration="33142000" />
+      <workItem from="1580525018804" duration="42470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68759000" />
+    <option name="totallyTimeSpent" value="78087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -402,23 +439,23 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.2806604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2806604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.2806604" />
       <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="6.9444446E-4" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985849" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3985849" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -435,51 +472,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="59" />
+      <option name="time" value="78" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/InsertInterval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/MergeIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -501,13 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="2875" column="18" lean-forward="true" selection-start-line="2875" selection-start-column="18" selection-end-line="2875" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -591,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fun/Card24.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
@@ -667,16 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/FourSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -686,16 +658,6 @@
             <element signature="e#5098#5099#0" expanded="true" />
             <element signature="e#177013#177014#0" expanded="true" />
             <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -748,16 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ValidSudoku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#376#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -793,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Note.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -824,16 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/FindSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -841,33 +776,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#268#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="e#242#251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="354" column="29" lean-forward="true" selection-start-line="354" selection-start-column="29" selection-end-line="354" selection-end-column="29" />
+        <state relative-caret-position="15">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ValidSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="495">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
-            <element signature="e#268#286#0" expanded="true" />
+            <element signature="e#376#387#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="421" column="17" lean-forward="true" selection-start-line="421" selection-start-column="17" selection-end-line="421" selection-end-column="17" />
+          <folding>
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15119#15120#0" expanded="true" />
+            <element signature="e#15210#15211#0" expanded="true" />
+            <element signature="e#15244#15245#0" expanded="true" />
+            <element signature="e#15897#15898#0" expanded="true" />
+            <element signature="e#15933#15934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/FindSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ContainsDuplicateV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#336#345#0" expanded="true" />
+            <element signature="e#830#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/ProductofArrayExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/IncreasingTripletSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="407" selection-start-line="407" selection-end-line="407" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/GameofLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
