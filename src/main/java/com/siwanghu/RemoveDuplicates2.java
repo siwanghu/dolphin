@@ -30,6 +30,5 @@ public class RemoveDuplicates2 {
             }
             return length;
         }
-
     }
 }

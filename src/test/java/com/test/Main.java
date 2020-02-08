@@ -408,5 +408,144 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        //ReverseLinkedList
+        System.out.println("------------------ReverseLinkedList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node4=new Node(3,null);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new ReverseLinkedList().reverseLinkedList(head));
+            System.out.println(new ReverseLinkedList().reverseLinkedList(head1));
+            System.out.println(new ReverseLinkedList().reverseLinkedList(head2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //OddEvenLinkedList
+        System.out.println("------------------OddEvenLinkedList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new OddEvenLinkedList().oddEvenLinkedList(head));
+            System.out.println(new OddEvenLinkedList().oddEvenLinkedList(head1));
+            System.out.println(new OddEvenLinkedList().oddEvenLinkedList(head2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //AddTwoNumbers
+        System.out.println("------------------AddTwoNumbers--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node2=new Node(3,null);
+            Node node1=new Node(4,node2);
+            Node head1=new Node(2,node1);
+            Node node4=new Node(4,null);
+            Node node3=new Node(6,node4);
+            Node head2=new Node(5,node3);
+            Node node6=new Node(9,null);
+            Node node5=new Node(9,node6);
+            Node head3=new Node(9,node5);
+            Node node8=new Node(9,null);
+            Node node7=new Node(9,node8);
+            Node head4=new Node(9,node7);
+            System.out.println(new AddTwoNumbers().addTwoNumbers(head,null));
+            System.out.println(new AddTwoNumbers().addTwoNumbers(null,head));
+            System.out.println(new AddTwoNumbers().addTwoNumbers(head1,head2));
+            System.out.println(new AddTwoNumbers().addTwoNumbers(head3,head4));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ReverseLinkedListV2
+        System.out.println("------------------ReverseLinkedListV2--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new ReverseLinkedListV2().reverseLinkedListV2(head,1,2));
+            System.out.println(new ReverseLinkedListV2().reverseLinkedListV2(head1,1,2));
+            System.out.println(new ReverseLinkedListV2().reverseLinkedListV2(head2,1,5));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //PartitionList
+        System.out.println("------------------PartitionList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node7=new Node(2,null);
+            Node node6=new Node(5,node7);
+            Node node5=new Node(2,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(4,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new PartitionList().partitionList(head,1));
+            System.out.println(new PartitionList().partitionList(head1,1));
+            System.out.println(new PartitionList().partitionList(head2,4));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RemoveDuplicatesfromSortedList
+        System.out.println("------------------RemoveDuplicatesfromSortedList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(2,node1);
+            Node node6=new Node(3,null);
+            Node node5=new Node(3,node6);
+            Node node4=new Node(2,node5);
+            Node node3=new Node(1,node4);
+            Node head2=new Node(1,node3);
+            Node node8=new Node(2,null);
+            Node node7=new Node(1,node8);
+            Node head3=new Node(1,node7);
+            System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head));
+            System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head1));
+            System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head2));
+            System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RemoveDuplicatesfromSortedListV2
+        System.out.println("------------------RemoveDuplicatesfromSortedListV2--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(2,node1);
+            Node node6=new Node(3,null);
+            Node node5=new Node(5,null);
+            Node node4=new Node(4,node5);
+            Node node3=new Node(4,node4);
+            Node head2=new Node(3,node3);
+            Node node8=new Node(3,head2);
+            Node node7=new Node(2,node8);
+            Node head3=new Node(1,node7);
+            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head));
+            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head1));
+            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head2));
+            System.out.println(new RemoveDuplicatesfromSortedListV2().removeDuplicatesfromSortedListV2(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }
