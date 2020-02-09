@@ -532,18 +532,78 @@ public class Main {
             Node head=new Node(1,null);
             Node node1=new Node(2,null);
             Node head1=new Node(2,node1);
-            Node node6=new Node(3,null);
+            Node node15=new Node(5,null);
+            Node node14=new Node(3,node15);
+            Node node13=new Node(3,node14);
+            Node head12=new Node(2,node13);
+            Node node11=new Node(1,head12);
+            Node node10=new Node(1,node11);
+            Node head2=new Node(1,node10);
             Node node5=new Node(5,null);
             Node node4=new Node(4,node5);
             Node node3=new Node(4,node4);
-            Node head2=new Node(3,node3);
-            Node node8=new Node(3,head2);
+            Node head9=new Node(3,node3);
+            Node node8=new Node(3,head9);
             Node node7=new Node(2,node8);
             Node head3=new Node(1,node7);
-            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head));
-            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head1));
-            //System.out.println(new RemoveDuplicatesfromSortedList().removeDuplicatesfromSortedList(head2));
+            System.out.println(new RemoveDuplicatesfromSortedListV2().removeDuplicatesfromSortedListV2(head));
+            System.out.println(new RemoveDuplicatesfromSortedListV2().removeDuplicatesfromSortedListV2(head1));
+            System.out.println(new RemoveDuplicatesfromSortedListV2().removeDuplicatesfromSortedListV2(head2));
             System.out.println(new RemoveDuplicatesfromSortedListV2().removeDuplicatesfromSortedListV2(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RotateList
+        System.out.println("------------------RotateList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new RotateList().rotateList(head,1));
+            System.out.println(new RotateList().rotateList(head1,1));
+            System.out.println(new RotateList().rotateList(head2,2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //RemoveNthNodeFromEndofList
+        System.out.println("------------------RotateList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new RemoveNthNodeFromEndofList().removeNthNodeFromEndofList(head,1));
+            System.out.println(new RemoveNthNodeFromEndofList().removeNthNodeFromEndofList(head1,2));
+            System.out.println(new RemoveNthNodeFromEndofList().removeNthNodeFromEndofList(head2,3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //SwapNodesinPairs
+        System.out.println("------------------SwapNodesinPairs--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new SwapNodesinPairs().swapNodesinPairs(head));
+            System.out.println(new SwapNodesinPairs().swapNodesinPairs(head1));
+            System.out.println(new SwapNodesinPairs().swapNodesinPairs(head2));
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
