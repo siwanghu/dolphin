@@ -1,5 +1,7 @@
 package com.test;
-import com.siwanghu.*;
+import com.siwanghu.array.*;
+import com.siwanghu.linkedlist.*;
+import com.siwanghu.simulation.*;
 
 import java.util.*;
 
@@ -604,6 +606,24 @@ public class Main {
             System.out.println(new SwapNodesinPairs().swapNodesinPairs(head));
             System.out.println(new SwapNodesinPairs().swapNodesinPairs(head1));
             System.out.println(new SwapNodesinPairs().swapNodesinPairs(head2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ReverseNodesInkGroup
+        System.out.println("------------------ReverseNodesInkGroup--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node6=new Node(5,null);
+            Node node5=new Node(4,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            System.out.println(new ReverseNodesInkGroup().reverseNodesInkGroup(head,1));
+            System.out.println(new ReverseNodesInkGroup().reverseNodesInkGroup(head1,2));
+            System.out.println(new ReverseNodesInkGroup().reverseNodesInkGroup(head2,2));
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
