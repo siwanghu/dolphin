@@ -627,5 +627,94 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        System.out.println("------------------CopyListwithRandomPointer--------------------");
+        try{
+            RandomNode head1=new RandomNode(1,null,null);
+            RandomNode node3=new RandomNode(4,null,null);
+            RandomNode node2=new RandomNode(3,node3,null);
+            RandomNode node1=new RandomNode(2,node2,null);
+            RandomNode head2=new RandomNode(1,node1,null);
+            head2.random=node3;
+            node1.random=node2;
+            node2.random=head2;
+            node3.random=node1;
+            System.out.println(new CopyListwithRandomPointer().copyListwithRandomPointer(head1));
+            System.out.println(new CopyListwithRandomPointer().copyListwithRandomPointer(head2));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //LinkedListCycle
+        System.out.println("------------------LinkedListCycle--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node4=new Node(3,null);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            Node node7=new Node(4,null);
+            Node node6=new Node(3,node7);
+            Node node5=new Node(2,node6);
+            Node head3=new Node(1,node5);
+            node7.next=node5;
+            Node head4=new Node(1,null);
+            head4.next=head4;
+            System.out.println(new LinkedListCycle().linkedListCycle(head));
+            System.out.println(new LinkedListCycle().linkedListCycle(head1));
+            System.out.println(new LinkedListCycle().linkedListCycle(head2));
+            System.out.println(new LinkedListCycle().linkedListCycle(head3));
+            System.out.println(new LinkedListCycle().linkedListCycle(head4));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //LinkedListCycleV2
+        System.out.println("------------------LinkedListCycleV2--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node4=new Node(3,null);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            node4.next=node3;
+            Node node7=new Node(4,null);
+            Node node6=new Node(3,node7);
+            Node node5=new Node(2,node6);
+            Node head3=new Node(1,node5);
+            node7.next=node5;
+            Node head4=new Node(1,null);
+            head4.next=head4;
+            System.out.println(new LinkedListCycleV2().linkedListCycleV2(head));
+            System.out.println(new LinkedListCycleV2().linkedListCycleV2(head1));
+            System.out.println(new LinkedListCycleV2().linkedListCycleV2(head2));
+            System.out.println(new LinkedListCycleV2().linkedListCycleV2(head3));
+            System.out.println(new LinkedListCycleV2().linkedListCycleV2(head4));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //LinkedListCycleV2
+        System.out.println("------------------LinkedListCycleV2--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(1,node1);
+            Node node4=new Node(3,null);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            Node node7=new Node(4,null);
+            Node node6=new Node(3,node7);
+            Node node5=new Node(2,node6);
+            Node head3=new Node(1,node5);
+            System.out.println(new ReorderList().reorderList(head));
+            System.out.println(new ReorderList().reorderList(head1));
+            System.out.println(new ReorderList().reorderList(head2));
+            System.out.println(new ReorderList().reorderList(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }

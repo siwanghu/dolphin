@@ -1,5 +1,7 @@
 package com.siwanghu.linkedlist;
 
+import java.util.HashSet;
+
 public class Node{
     public int val;
     public Node next;
@@ -18,10 +20,12 @@ public class Node{
     public String toString() {
         String result="";
         Node head=this;
-        while(head!=null){
+        HashSet<Node> set=new HashSet<Node>();
+        while(head!=null && !set.contains(head)){
             result+=('{'+"val=" + head.val + '}'+"-->");
+            set.add(head);
             head=head.next;
         }
-        return result+"null";
+        return head==null?result+"null":result+head.next.val;
     }
 }
