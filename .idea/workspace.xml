@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e50480-57de-4c7c-a906-8f986eee9ed2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycleV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RandomNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReorderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/PalindromeLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/CopyListwithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/CopyListwithRandomPointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/Candy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicateV2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ContainsDuplicateV3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/CopyListwithRandomPointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FindSubString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum$Triplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/FourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/GameofLife.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/GasStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/IncreasingTripletSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/InsertInterval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/LongestConsecutiveSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MajorityElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MergeIntervals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MinimumWindowSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MoveZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/MultiplyStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/NextPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/OddEvenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PalindromeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PartitionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PascalTriangle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PermutationSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ProductofArrayExceptSelf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicates2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicatesfromSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveDuplicatesfromSortedListV2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RemoveNthNodeFromEndofList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseLinkedListV2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ReverseNodesInkGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateImage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/RotateList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/SetMatrixZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/SpiralMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/SwapNodesinPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum$Triplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest$Triplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ThreeSumClosest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TrappingRainWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum$Indices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/siwanghu/ValidSudoku.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,32 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CopyListwithRandomPointer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/CopyListwithRandomPointer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="706" column="41" lean-forward="true" selection-start-line="706" selection-start-column="41" selection-end-line="706" selection-end-column="41" />
+            <state relative-caret-position="-10511">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListCycleV2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycleV2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -117,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -125,8 +48,8 @@
       <file leaf-file-name="RandomNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RandomNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -135,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -143,8 +66,31 @@
       <file leaf-file-name="ReorderList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReorderList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="345">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LRUCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LRUCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1713#1714#0" expanded="true" />
+                <element signature="e#1774#1775#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromeLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/PalindromeLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -153,28 +99,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#411#417#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -194,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/test/Note.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/ValidSudoku.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/TrappingRainWater.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/RotateImage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/PlusOne.java" />
@@ -244,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycleV2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReorderList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/Main.java" />
       </list>
     </option>
@@ -268,8 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,15 +241,6 @@
               <item name="dolphin" type="b2602c69:ProjectViewProjectNode" />
               <item name="dolphin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="siwanghu" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dolphin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dolphin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,7 +262,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,12 +387,13 @@
       <workItem from="1581396240472" duration="5975000" />
       <workItem from="1581402757333" duration="83000" />
       <workItem from="1581556683151" duration="5769000" />
-      <workItem from="1581652335141" duration="3578000" />
+      <workItem from="1581652335141" duration="3658000" />
+      <workItem from="1581677206207" duration="3341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117040000" />
+    <option name="totallyTimeSpent" value="120461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
@@ -483,7 +409,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.2798354" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.27948114" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -494,7 +420,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978052" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39740565" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="REST Client" order="8" weight="0.3667453" />
@@ -513,7 +439,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="136" />
+      <option name="time" value="137" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -522,41 +448,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/simulation/InsertInterval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/simulation/MergeIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/array/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/array/RotateImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/array/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/simulation/MinimumWindowSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -666,13 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/array/GasStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -818,7 +702,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycleV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RandomNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RotateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReorderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="454" column="27" lean-forward="true" selection-start-line="454" selection-start-column="27" selection-end-line="454" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="553" column="36" lean-forward="true" selection-start-line="553" selection-start-column="36" selection-end-line="553" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1713#1714#0" expanded="true" />
+            <element signature="e#1774#1775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/array/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
@@ -826,61 +792,23 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/LinkedListCycleV2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/PalindromeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RandomNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/RotateList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/ReorderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="706" column="41" lean-forward="true" selection-start-line="706" selection-start-column="41" selection-end-line="706" selection-end-column="41" />
+        <state relative-caret-position="-10511">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/siwanghu/linkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#411#417#0" expanded="true" />
           </folding>
         </state>
       </provider>

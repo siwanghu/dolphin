@@ -716,5 +716,47 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        System.out.println("------------------LRUCache--------------------");
+        try{
+            LRUCache lruCache=new LRUCache();
+            for(int i=0;i<5;i++){
+                lruCache.set(i,i);
+                System.out.println(lruCache);
+            }
+            lruCache.get(0);
+            System.out.println(lruCache);
+            lruCache.set(1,100);
+            System.out.println(lruCache);
+            lruCache.set(5,5);
+            System.out.println(lruCache);
+            lruCache.set(6,6);
+            System.out.println(lruCache);
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //PalindromeLinkedList
+        System.out.println("------------------PalindromeLinkedList--------------------");
+        try {
+            Node head=new Node(1,null);
+            Node node1=new Node(2,null);
+            Node head1=new Node(2,node1);
+            Node node6=new Node(1,null);
+            Node node5=new Node(2,node6);
+            Node node4=new Node(3,node5);
+            Node node3=new Node(2,node4);
+            Node head2=new Node(1,node3);
+            Node node9=new Node(1,null);
+            Node node8=new Node(2,node9);
+            Node node7=new Node(2,node8);
+            Node head3=new Node(1,node7);
+            System.out.println(new PalindromeLinkedList().palindromeLinkedList(head));
+            System.out.println(new PalindromeLinkedList().palindromeLinkedList(head1));
+            System.out.println(new PalindromeLinkedList().palindromeLinkedList(head2));
+            System.out.println(new PalindromeLinkedList().palindromeLinkedList(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }
