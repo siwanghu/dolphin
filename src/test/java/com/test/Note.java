@@ -9,5 +9,7 @@ public class Note {
     *2.FindSubString
     *
     *3.PermutationSequence
+    *
+    *4.Strstr
     */
 }

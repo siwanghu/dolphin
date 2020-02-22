@@ -2,6 +2,7 @@ package com.test;
 import com.siwanghu.array.*;
 import com.siwanghu.linkedlist.*;
 import com.siwanghu.simulation.*;
+import com.siwanghu.string.*;
 
 import java.util.*;
 
@@ -717,6 +718,7 @@ public class Main {
             System.out.println(e.getMessage());
         }
 
+        //LRUCache
         System.out.println("------------------LRUCache--------------------");
         try{
             LRUCache lruCache=new LRUCache();
@@ -755,6 +757,83 @@ public class Main {
             System.out.println(new PalindromeLinkedList().palindromeLinkedList(head1));
             System.out.println(new PalindromeLinkedList().palindromeLinkedList(head2));
             System.out.println(new PalindromeLinkedList().palindromeLinkedList(head3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ValidPalindrome
+        System.out.println("------------------ValidPalindrome--------------------");
+        try{
+            String str="A man, a plan, a canal: Panama";
+            String str1="race a car";
+            String str2="race ,ecar";
+            String str3=",@12q,+q21-";
+            String str4="+--,.";
+            String str5="a";
+            System.out.println(new ValidPalindrome().validPalindrome(str));
+            System.out.println(new ValidPalindrome().validPalindrome(str1));
+            System.out.println(new ValidPalindrome().validPalindrome(str2));
+            System.out.println(new ValidPalindrome().validPalindrome(str3));
+            System.out.println(new ValidPalindrome().validPalindrome(str4));
+            System.out.println(new ValidPalindrome().validPalindrome(str5));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //StrStr
+        System.out.println("------------------StrStr--------------------");
+        try{
+            String str="A man, a plan, a canal: Panama";
+            String subStr="a plan";
+            String str1="race a car";
+            String subStr1="brac";
+            System.out.println(new StrStr().strStr(str,subStr));
+            System.out.println(new StrStr().strStr(str1,subStr1));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //Atoi
+        System.out.println("------------------Atoi--------------------");
+        try{
+            String str="";
+            String str1="-123";
+            String str2="+123";
+            String str3="123";
+            String str4="  -00123";
+            System.out.println(new Atoi().atoi(str));
+            System.out.println(new Atoi().atoi(str1));
+            System.out.println(new Atoi().atoi(str2));
+            System.out.println(new Atoi().atoi(str3));
+            System.out.println(new Atoi().atoi(str4));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+        try{
+            String str5="  001a23";
+            System.out.println(new Atoi().atoi(str5));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+        try{
+            String str6="1234567898765432";
+            System.out.println(new Atoi().atoi(str6));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //AddBinary
+        System.out.println("------------------AddBinary--------------------");
+        try{
+            String str="11";
+            String subStr="1";
+            String str1="11";
+            String subStr1="011";
+            String str2="11111111";
+            String subStr2="11111111";
+            System.out.println(new AddBinary().addBinary(str,subStr));
+            System.out.println(new AddBinary().addBinary(str1,subStr1));
+            System.out.println(new AddBinary().addBinary(str2,subStr2));
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
