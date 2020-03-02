@@ -11,5 +11,7 @@ public class Note {
     *3.PermutationSequence
     *
     *4.Strstr
+    *
+    *5.LongestPalindromicSubstring
     */
 }

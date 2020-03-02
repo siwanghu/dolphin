@@ -837,5 +837,62 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
+
+        //LongestPalindromicSubstring
+        System.out.println("------------------LongestPalindromicSubstring--------------------");
+        try{
+            String str="a";
+            String str1="aab";
+            String str2="baa";
+            String str3="dxaabaaf";
+            System.out.println(new LongestPalindromicSubstring().longestPalindromicSubstring(str));
+            System.out.println(new LongestPalindromicSubstring().longestPalindromicSubstring(str1));
+            System.out.println(new LongestPalindromicSubstring().longestPalindromicSubstring(str2));
+            System.out.println(new LongestPalindromicSubstring().longestPalindromicSubstring(str3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //LongestCommonPrefix
+        System.out.println("------------------LongestCommonPrefix--------------------");
+        try{
+            String[] str={"a"};
+            String[] str1={"aab","aba"};
+            String[] str2={"baa","baa"};
+            String[] str3={"dxaabaaf","dxaa","dx"};
+            System.out.println(new LongestCommonPrefix().longestCommonPrefix(str));
+            System.out.println(new LongestCommonPrefix().longestCommonPrefix(str1));
+            System.out.println(new LongestCommonPrefix().longestCommonPrefix(str2));
+            System.out.println(new LongestCommonPrefix().longestCommonPrefix(str3));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+
+        //ValidNumber
+        System.out.println("------------------ValidNumber--------------------");
+        try{
+            String str="+0";
+            String str1=" 0.1";
+            String str2="abc";
+            String str3="1 a";
+            String str4="2e10";
+            String str5="2.e10";
+            String str6=".1e10";
+            String str7="2.1e10.1";
+            String str8="2.1e1.";
+            String str9="-2.1e10";
+            System.out.println(str+" "+new ValidNumber().validNumber(str));
+            System.out.println(str1+" "+new ValidNumber().validNumber(str1));
+            System.out.println(str2+" "+new ValidNumber().validNumber(str2));
+            System.out.println(str3+" "+new ValidNumber().validNumber(str3));
+            System.out.println(str4+" "+new ValidNumber().validNumber(str4));
+            System.out.println(str5+" "+new ValidNumber().validNumber(str5));
+            System.out.println(str6+" "+new ValidNumber().validNumber(str6));
+            System.out.println(str7+" "+new ValidNumber().validNumber(str7));
+            System.out.println(str8+" "+new ValidNumber().validNumber(str8));
+            System.out.println(str9+" "+new ValidNumber().validNumber(str9));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
     }
 }
